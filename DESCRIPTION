@@ -11,9 +11,7 @@ Authors@R: c(
 	)
 Author: Winston Chang [aut], Frederic Bertrand [cre] (<https://orcid.org/0000-0002-0837-8281>)
 Maintainer: Frederic Bertrand <frederic.bertrand@lecnam.net>
-Description: It is meant to be used with the extrafont package. The
-extrafont package contains the code to install and use fonts, while the extrafontdb
-package contains the font database.
+Description: It is meant to be used with the extrafont package. The extrafont package contains the code to install and use fonts, while the extrafontdb package contains the font database.
 License: GPL-2
 LazyLoad: yes
 NeedsCompilation: no
