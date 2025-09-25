@@ -1,3 +1,3 @@
 #' @keywords internal
-#' @aliases extrafontdb package-extrafontdb
+#' @aliases extrafontdb package-extrafontdb NULL
 "_PACKAGE"
