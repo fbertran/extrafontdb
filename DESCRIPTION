@@ -1,12 +1,26 @@
 Package: extrafontdb
+Type: Package
 Title: Package for holding the database for the extrafont package
-Version: 1.0
-Author: Winston Chang <winston@stdout.org>
-Maintainer: Winston Chang <winston@stdout.org>
-Description: Package for holding the database for the extrafont package
+Version: 1.1
+Date: 2025-09-25
 Depends:
     R (>= 2.14)
+Authors@R: c(
+	person(given = "Winston", family= "Chang", role = c("aut")),
+	person(given = "Frederic", family= "Bertrand", role = c("cre"), email = "frederic.bertrand@lecnam.net", comment = c(ORCID = "0000-0002-0837-8281"))
+	)
+Author: Winston Chang [aut], Frederic Bertrand [cre] (<https://orcid.org/0000-0002-0837-8281>)
+Maintainer: Frederic Bertrand <frederic.bertrand@lecnam.net>
+Description: It is meant to be used with the extrafont package. The
+extrafont package contains the code to install and use fonts, while the extrafontdb
+package contains the font database.
 License: GPL-2
-URL: https://github.com/wch/extrafontdb
+LazyLoad: yes
+NeedsCompilation: no
+URL: https://github.com/fbertran/extrafontdb
+BugReports: https://github.com/fbertran/extrafontdb/issues
+RoxygenNote: 7.3.3
+Encoding: UTF-8
+Config/testthat/edition: 3
 Collate:
     'extrafontdb.r'
