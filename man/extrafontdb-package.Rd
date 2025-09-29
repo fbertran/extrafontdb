@@ -5,9 +5,9 @@
 \alias{extrafontdb-package}
 \alias{extrafontdb}
 \alias{package-extrafontdb}
-\title{extrafontdb: Package for Holding the Database for the Extrafont Package}
+\title{extrafontdb: Holding the Database for the 'extrafont' Package}
 \description{
-It is meant to be used with the extrafont package. The extrafont package contains the code to install and use fonts, while the extrafontdb package contains the font database.
+It is meant to be used with the 'extrafont' package. The 'extrafont' package contains the code to install and use fonts, while the 'extrafontdb' package contains the font database.
 }
 \seealso{
 Useful links:
